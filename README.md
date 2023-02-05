@@ -1,11 +1,10 @@
 ## codepath-prework
 
-### App Description
-    Pre-work for CodePath iOS course. An app that takes user input and displays a coherent introduction for the user. 
+### App Description:
+Pre-work for CodePath iOS course. An app that takes user input and displays a coherent introduction for the user. 
 
-### App Walk-though
-
-    <div> <img src="ios-prework-app.gif" alt="image walkthrough">  </div>
+### App Walk-Through:
+<div> <img src="ios-prework-app.gif" alt="image walkthrough">  </div>
 
 ### Required Features
 

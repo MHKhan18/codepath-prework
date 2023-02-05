@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-    <img src="ios-prework-app.gif" width=200><br>
+    <div> <img src="ios-prework-app.gif" alt="image walkthrough">  </div>
 
 ### Required Features
 
